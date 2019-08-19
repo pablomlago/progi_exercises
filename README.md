@@ -1,2 +1,2 @@
-# progi_exercises
+# Programming I Introductory Exercises
 USC Programming I introductory class exercises
